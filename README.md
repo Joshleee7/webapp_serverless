@@ -17,8 +17,13 @@ Remediation: Run code "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope 
 Remediation: Generate public key with SSH and copy the key over to github SSH and GPG keys </br>
 ![image](https://github.com/user-attachments/assets/f82ba403-669d-4159-a62d-a1aab68cb11b)</br>
 
-3)Problem: npx ampx sandbox error </br> 
-![image](https://github.com/user-attachments/assets/84344c8e-b531-4f5e-9c73-df855fd75af8)
+3)Problem: npx ampx sandbox error, credential issue </br> 
+![image](https://github.com/user-attachments/assets/84344c8e-b531-4f5e-9c73-df855fd75af8)</br>
+Remediation: provide access key and secret access key</br>
+![image](https://github.com/user-attachments/assets/71098852-75ed-4ee0-ad39-b36ba7604a31) </br>
+Steps to get access keys</br>
+![image](https://github.com/user-attachments/assets/63e26ee5-45f7-456f-9702-ef0371aaa642)
+
 
 
 
