@@ -6,3 +6,7 @@ Link: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-l
 1) Configure AWS for local development</br>
 Link: https://docs.amplify.aws/react/start/account-setup/
 2) 
+
+## Errors
+1) Problem: npx : File C:\Program Files\nodejs\npx.ps1 cannot be loaded because running scripts is disabled on this system.
+Remediation: Run code "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
