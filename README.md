@@ -9,4 +9,8 @@ Link: https://docs.amplify.aws/react/start/account-setup/
 
 ## Errors
 1) Problem: npx : File C:\Program Files\nodejs\npx.ps1 cannot be loaded because running scripts is disabled on this system.
-Remediation: Run code "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
+Remediation: Run code "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser" </br>
+2) Problem: error: failed to push some refs to 'git@github.com/Joshleee7/profilesapp.git' </br>
+![image](https://github.com/user-attachments/assets/b971ba79-0ff2-43c2-9ea0-055195bcbd97) </br>
+
+
