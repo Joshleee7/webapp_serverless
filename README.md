@@ -1,6 +1,8 @@
 # webapp_serverless
 Learn to create a web app using AWS severless services</br>
 Link: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/
+## Architecture review
+![image](https://github.com/user-attachments/assets/4a0fd78c-6913-4396-9246-9ab4631476ed)
 
 ## Steps
 1) Configure AWS for local development</br>
