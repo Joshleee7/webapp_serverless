@@ -37,6 +37,8 @@ Remediation: To reinstall the applcation with React+Javascript
 Remediation: Remove the origin and add again </br>
 ![image](https://github.com/user-attachments/assets/88778408-1a62-4fec-8b45-3759e6541003)
 
+## 6) Problem Security Token included in the request is expired in AWS </br>
+![image](https://github.com/user-attachments/assets/77529111-7c49-4769-a8c1-1a7d1571dbf5)
 
 
 
