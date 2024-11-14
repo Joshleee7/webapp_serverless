@@ -41,6 +41,9 @@ Remediation: Remove the origin and add again </br>
 ![image](https://github.com/user-attachments/assets/77529111-7c49-4769-a8c1-1a7d1571dbf5) </br>
 Remediation: Just re-enter amplify and deploy again
 
+### 7) Error in loading recipe after input ingredients </br>
+![image](https://github.com/user-attachments/assets/f9fe6007-8ff9-4153-b86a-b7fdee1fc956)
+Remediation: Find the latest claude sonnet version and amend accordingly in bedrock.js
 
 
 
