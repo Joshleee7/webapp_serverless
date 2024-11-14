@@ -1,4 +1,4 @@
-# webapp_serverless
+# Webapp_serverless- React+Type script
 Learn to create a web app using AWS severless services</br>
 Link: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/
 ## Architecture review
