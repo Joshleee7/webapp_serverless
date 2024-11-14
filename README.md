@@ -29,7 +29,8 @@ Steps to get access keys</br>
 ### 4) Problem: Initial setup error, I created vue instead of react application in the beginning </br>
 ![image](https://github.com/user-attachments/assets/b0323135-0a9d-418c-97ed-09ff747b84b5)</br>
 ![image](https://github.com/user-attachments/assets/2537051b-d11d-4838-88dd-ad9e3b2362a3) </br>
-![image](https://github.com/user-attachments/assets/894df274-6474-4273-aeb6-18757901ba35)
+![image](https://github.com/user-attachments/assets/894df274-6474-4273-aeb6-18757901ba35) </br>
+Remediation: To reinstall the applcation with React+Javascript
 
 
 
