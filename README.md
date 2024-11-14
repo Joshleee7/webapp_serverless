@@ -32,6 +32,13 @@ Steps to get access keys</br>
 ![image](https://github.com/user-attachments/assets/894df274-6474-4273-aeb6-18757901ba35) </br>
 Remediation: To reinstall the applcation with React+Javascript
 
+### 5) Problem: Origin name differs</br>
+![image](https://github.com/user-attachments/assets/bdf8d5ff-4f5d-404d-9d13-66df0042255c) </br>
+Remediation: Remove the origin and add again </br>
+![image](https://github.com/user-attachments/assets/88778408-1a62-4fec-8b45-3759e6541003)
+
+
+
 
 
 
